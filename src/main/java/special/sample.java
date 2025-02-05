@@ -9,5 +9,6 @@ public class sample
 	{
 		System.out.println("github practice");
 		System.out.println("git executed");
+		System.out.println("hii");
 	}
 }
